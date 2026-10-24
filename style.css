@@ -37,3 +37,4 @@ pre{background:var(--code);border:1px solid var(--line);border-radius:10px;paddi
 .note{color:var(--muted);font-size:14px}
 footer{margin-top:64px;border-top:1px solid var(--line);padding:24px 0 40px;color:var(--muted);font-size:14px}
 [hidden]{display:none!important}
+h3.sub{font:600 14px ui-monospace,monospace;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin:28px 0 4px}
